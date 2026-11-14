@@ -63,6 +63,12 @@ The project uses supermarket datasets containing:
 - Combining multiple CSV files.
 - Building interactive Power BI reports.
 
+## Dashboard Preview
+
+### Supermarket Sales Dashboard
+
+![Supermarket Power BI Dashboard](Project_Image/Dashboard_Overview.png) 
+
 ## Author
 Rahul Chandrawanshi
 
